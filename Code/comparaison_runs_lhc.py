@@ -12,8 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 
-from final_consultation_des_co import interp_mu, lumi_tag_str, fmt_lumi
-
+from calcul_limites_exclusion import interp_mu, lumi_tag_str, fmt_lumi
 
 # ──────────────────────────────────────────────────────────────────────────────
 # Luminosités cibles (doivent être identiques à celles utilisées lors du scan,
